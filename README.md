@@ -1,6 +1,6 @@
 ## BOOTCAMP ROCKETSEAT
 
-![preview](./.github/bootcamp.png)
+![preview](./.github/bootcamp-junho.png)
 
 > Criação de uma _landpage_, com inspiração no bootscamp da empresa Rocketseat.
 
