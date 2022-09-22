@@ -12,4 +12,4 @@
 - CSS
 - GITUB
 
-[Clique aqui para visualizar]([https://raffaelmiguell.github.io/bootcamprocketseat/](https://raffaelmiguell.github.io/bootcamp-rocket-junho/)
+[Clique aqui para visualizar](https://raffaelmiguell.github.io/bootcamp-rocket-junho/)
